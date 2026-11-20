@@ -1,0 +1,10 @@
+files:
+  - app.yaml
+  - main.py
+  - teach_faces.py
+id: appfinal1
+name: app final
+version: 1.0.0
+author: mimi
+icon: ''
+desc: 'final ver '
